@@ -1,3 +1,3 @@
 # odin-recipies-2
 
-        In this project i will be learning basic html structure, how to build a working page, and how to push code to my code via git and github
+        In this project.I will be learning basic HTML structure, how to build a working page, and how to push code to my code via git and github. I made a website containing a recipie book. There are 3 recipes for 3 seperate dishes. I used more skills than were required of me to try to flex my skill and muscle and attempt to be more creative. I learend how to provide links, images, make headers and lists, and how to link multiple pages together using hyperlink reference points. I also practice with making certain lines and words itallicized or bolded for emphasis.After completing this lesson, I feel much more comfortable using HTML as a whole.
